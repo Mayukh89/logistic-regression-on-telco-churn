@@ -1,6 +1,6 @@
 """
 ============================================================
-Logistic Regression on Telco Churn — Beginner Friendly Script
+Logistic Regression
 ============================================================
 
 Description:
